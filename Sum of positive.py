@@ -6,3 +6,8 @@ def positive_sum(arr):
         if el > 0:
             sum = sum + el
     return sum
+
+
+def positive_sum(arr):
+    # Your code here
+  return sum([x for x in arr if x > 0])
