@@ -7,3 +7,6 @@ def update_light(current):
             return 'green'
     else:
             return 'red'
+
+
+# return 'yellow' if current == 'green' else 'red' if current == 'yellow' else 'green'
