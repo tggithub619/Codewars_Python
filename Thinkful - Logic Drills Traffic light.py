@@ -10,3 +10,7 @@ def update_light(current):
 
 
 # return 'yellow' if current == 'green' else 'red' if current == 'yellow' else 'green'
+
+
+def update_light(current):
+    return {"green": "yellow", "yellow": "red", "red": "green"}[current]
