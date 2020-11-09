@@ -8,3 +8,6 @@ def to_alternating_case(str):
         else :
              res += el.lower()
     return res
+
+def to_alternating_case(string):
+    return string.swapcase()
