@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu Drone Fly-By.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu Remove exclamation marks.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <updated>1602729858579</updated>
       <workItem from="1603172590478" duration="15000" />
       <workItem from="1603942965022" duration="9711000" />
-      <workItem from="1604522914487" duration="23476000" />
+      <workItem from="1604522914487" duration="23964000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1602730140063</created>
@@ -386,7 +385,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604905030235</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2">
+      <created>1604984717034</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1604984717034</updated>
+    </task>
+    <task id="LOCAL-00047" summary="3">
+      <created>1604984730092</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1604984730092</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,21 +418,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3" />
-    <MESSAGE value="2" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <MESSAGE value="3" />
+    <option name="LAST_COMMIT_MESSAGE" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2" timestamp="1604905029456">
+    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2" timestamp="1604984729519">
       <screen x="1920" y="187" width="1920" height="1040" />
     </state>
     <state x="401" y="107" key="CommitChangelistDialog2/0.0.1920.1040/1920.187.1920.1040@0.0.1920.1040" timestamp="1604355641439" />
-    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1604905029456" />
-    <state x="2424" y="454" key="Vcs.Push.Dialog.v2" timestamp="1604901722990">
+    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1604984729519" />
+    <state x="2424" y="454" key="Vcs.Push.Dialog.v2" timestamp="1604984732734">
       <screen x="1920" y="187" width="1920" height="1040" />
     </state>
     <state x="504" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.187.1920.1040@0.0.1920.1040" timestamp="1604355644660" />
-    <state x="2424" y="454" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1604901722990" />
+    <state x="2424" y="454" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1604984732734" />
   </component>
 </project>
