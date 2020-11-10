@@ -7,10 +7,14 @@ def is_in_middle(seq):
         seq = seq[1:-1]
     return False
 
-def is_in_middle(s):
-    while len(s) > 4:
-        s = s[1:-1]
-
-    if 'abc' in s:
+def is_in_middle(seq):
+    while len(seq) > 4:
+        seq = seq[1:-1]
+    if 'abc' in seq:
         return True
     return False
+
+def is_in_middle(s):
+    while len(s)>4:
+        s = s[1:-1]
+    return 'abc' in s
