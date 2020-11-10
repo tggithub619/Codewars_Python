@@ -5,3 +5,9 @@ def fly_by(lamps, drone):
 
 def fly_by(lamps, drone):
     return lamps.replace('x', 'o', drone.count('=') + 1)
+
+def fly_by(lamps, drone):
+    spot = drone.index('T')+1
+    if spot>len(lamps):
+        return 'o'*len(lamps)
+    return 'o'*(spot)+lamps[spot:]
