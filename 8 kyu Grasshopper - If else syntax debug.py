@@ -5,3 +5,6 @@ def check_alive(health):
         return False
     else:
         return True
+
+def checkAlive(health):
+    return health > 0
