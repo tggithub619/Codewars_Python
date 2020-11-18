@@ -6,4 +6,3 @@ def nb_year(p0, percent, aug, p):
         p0 += p0 * percent / 100 + aug
         y += 1
     return y
-48 similar code variations
