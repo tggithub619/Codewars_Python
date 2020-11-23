@@ -1,4 +1,4 @@
-#https://www.codewars.com/users/TanyaG/completed_solutions
+#https://www.codewars.com/kata/58067088c27998b119000451/train/python/5fbb383be7fb84001d39ccf3
 
 def reverse_factorial(num):
     count = 1
