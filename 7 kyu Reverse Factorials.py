@@ -7,3 +7,7 @@ def reverse_factorial(num):
         num /= count
 
     return str(count) + "!" if num == 1 else "None"
+
+test.assert_equals(reverse_factorial(120), '5!')
+test.assert_equals(reverse_factorial(3628800), '10!')
+test.assert_equals(reverse_factorial(150), 'None')
