@@ -20,9 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1 Is_Prime function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6 kyu Adding Binary Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu Is There an Odd Bit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu Are the numbers in order.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu Difference Of Squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu A Needle in the Haystack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8 kyu Heads and Legs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,28 +73,7 @@
       <workItem from="1603172590478" duration="15000" />
       <workItem from="1603942965022" duration="9711000" />
       <workItem from="1604522914487" duration="48834000" />
-      <workItem from="1605509122560" duration="15170000" />
-    </task>
-    <task id="LOCAL-00043" summary="1">
-      <created>1604896906788</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1604896906788</updated>
-    </task>
-    <task id="LOCAL-00044" summary="2">
-      <created>1604901720108</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1604901720109</updated>
-    </task>
-    <task id="LOCAL-00045" summary="1">
-      <created>1604905030235</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1604905030235</updated>
+      <workItem from="1605509122560" duration="16249000" />
     </task>
     <task id="LOCAL-00046" summary="2">
       <created>1604984717034</created>
@@ -417,7 +397,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606259920964</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="1">
+      <created>1606260648886</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1606260648886</updated>
+    </task>
+    <task id="LOCAL-00093" summary="1">
+      <created>1606260801195</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1606260801195</updated>
+    </task>
+    <task id="LOCAL-00094" summary="1">
+      <created>1606260868422</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1606260868422</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,15 +451,15 @@
       <screen x="1920" y="187" width="1920" height="1040" />
     </state>
     <state x="2561" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1604987880618" />
-    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2" timestamp="1606259919661">
+    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2" timestamp="1606260867907">
       <screen x="1920" y="187" width="1920" height="1040" />
     </state>
     <state x="401" y="107" key="CommitChangelistDialog2/0.0.1920.1040/1920.187.1920.1040@0.0.1920.1040" timestamp="1605509142722" />
-    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1606259919661" />
-    <state x="2424" y="454" key="Vcs.Push.Dialog.v2" timestamp="1606259923308">
+    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1606260867907" />
+    <state x="2424" y="454" key="Vcs.Push.Dialog.v2" timestamp="1606260870162">
       <screen x="1920" y="187" width="1920" height="1040" />
     </state>
     <state x="504" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.187.1920.1040@0.0.1920.1040" timestamp="1605509146171" />
-    <state x="2424" y="454" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1606259923308" />
+    <state x="2424" y="454" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1606260870162" />
   </component>
 </project>
