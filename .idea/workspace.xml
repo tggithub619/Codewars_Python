@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/7 kyu Difference Of Squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu Difference Of Squares.py" afterDir="false" />
-    </list>
+    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,14 +67,7 @@
       <workItem from="1603172590478" duration="15000" />
       <workItem from="1603942965022" duration="9711000" />
       <workItem from="1604522914487" duration="48834000" />
-      <workItem from="1605509122560" duration="17565000" />
-    </task>
-    <task id="LOCAL-00048" summary="1">
-      <created>1604984988425</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1604984988425</updated>
+      <workItem from="1605509122560" duration="18285000" />
     </task>
     <task id="LOCAL-00049" summary="1">
       <created>1604985528913</created>
@@ -414,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606366833987</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="1">
+      <created>1606367441455</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1606367441455</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,15 +445,15 @@
       <screen x="1920" y="187" width="1920" height="1040" />
     </state>
     <state x="2561" y="541" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1604987880618" />
-    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2" timestamp="1606366833050">
+    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2" timestamp="1606367440894">
       <screen x="1920" y="187" width="1920" height="1040" />
     </state>
     <state x="401" y="107" key="CommitChangelistDialog2/0.0.1920.1040/1920.187.1920.1040@0.0.1920.1040" timestamp="1605509142722" />
-    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1606366833050" />
-    <state x="2424" y="454" key="Vcs.Push.Dialog.v2" timestamp="1606366835712">
+    <state x="2321" y="294" width="749" height="593" key="CommitChangelistDialog2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1606367440894" />
+    <state x="2424" y="454" key="Vcs.Push.Dialog.v2" timestamp="1606367444012">
       <screen x="1920" y="187" width="1920" height="1040" />
     </state>
     <state x="504" y="267" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.187.1920.1040@0.0.1920.1040" timestamp="1605509146171" />
-    <state x="2424" y="454" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1606366835712" />
+    <state x="2424" y="454" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.187.1920.1040@1920.187.1920.1040" timestamp="1606367444012" />
   </component>
 </project>
