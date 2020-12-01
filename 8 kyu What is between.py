@@ -5,3 +5,6 @@ def between(a, b):
     for i in range(a, b + 1):
         res.append(i)
     return res
+
+def between(a,b):
+    return range(a,b+1)
