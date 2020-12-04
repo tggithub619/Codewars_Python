@@ -13,3 +13,6 @@ def moving_average(v, n):
     for i in range(len(v) - n + 1):
         a.append(sum(v[i:i + n]) / n)
     return a
+
+def moving_average(a, n):
+    if 0 < n <= len(a): return [sum(a[i:i+n]) / n for i in range(len(a) - n + 1)]
