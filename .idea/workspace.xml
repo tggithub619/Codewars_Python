@@ -20,14 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/6 kyu Find last Fibonacci digit [hardcore version].py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu Find Fibonacci last digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu Find the nth Digit of a Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu Largest prime number containing n digit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu The Office IV - Find a Meeting Room.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu Unscrambled eggs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu Put a Letter in a Column.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu The Office III - Broken Photocopier.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/By 3, or not by 3 That is the question.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu By 3, or not by 3 That is the question.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,14 +74,7 @@
       <workItem from="1604522914487" duration="48834000" />
       <workItem from="1605509122560" duration="25219000" />
       <workItem from="1607641336849" duration="6237000" />
-      <workItem from="1608441214381" duration="4824000" />
-    </task>
-    <task id="LOCAL-00075" summary="1">
-      <created>1605663556181</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1605663556182</updated>
+      <workItem from="1608441214381" duration="7319000" />
     </task>
     <task id="LOCAL-00076" summary="1">
       <created>1605663614456</created>
@@ -424,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609882874560</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="1">
+      <created>1609890560092</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1609890560093</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
