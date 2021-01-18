@@ -6,3 +6,6 @@ def find_dup(arr):
 #
 # Test.assert_equals(find_dup([5, 4, 3, 2, 1, 1]), 1)
 # Test.assert_equals(find_dup([1, 3, 2, 5, 4, 5, 7, 6]), 5)
+
+def find_dup(arr):
+    return (i for i in arr if arr.count(i) > 1).next()
