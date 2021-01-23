@@ -20,3 +20,24 @@ def check_password(s):
     c5 = any([i for i in s if i in '!@#$%^&*?'])
     c6 = not any([i for i in s if i not in '!@#$%^&*?' and not i.isupper() and not i.islower() and not i.isdigit()])
     return 'valid' if c1 and c2 and c3 and c4 and c5 and c6 else 'not valid'
+
+
+def check_password(s):
+    length = 8 <= len(s) <= 20
+    upper = len([el for el in s if el.isupper()]) > 0
+    lower = len([el for el in s if el.islower()]) > 0
+    digit = len([el for el in s if el.isdigit()]) > 0
+    special = len([el for el in s if el in "!@#$%^&*?"]) > 0
+    u = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+    l = 'abcdefghijklmnopqrstuvwxyz'
+    d = '0123456789'
+    x = '!@#$%^&*?'
+    only = len([el for el in s if el not in u + l + d + x]) == 0
+    return "valid" if length and upper and lower and digit and special and only else "not valid"
+
+# test.assert_equals(check_password(""), "not valid")
+# test.assert_equals(check_password("password"), "not valid")
+# test.assert_equals(check_password("P1@p"), "not valid")
+# test.assert_equals(check_password("P1@pP1@p"), "valid")
+# test.assert_equals(check_password("P1@pP1@pP1@pP1@pP1@pP1@p"), "not valid")
+# test.assert_equals(check_password("Paaaaaa222!!!"), "valid")
