@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="" />
+    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/6 kyu Delete occurrences of an element if it occurs more than n times.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,14 +75,7 @@
       <workItem from="1607641336849" duration="6237000" />
       <workItem from="1608441214381" duration="8198000" />
       <workItem from="1610692855176" duration="309000" />
-      <workItem from="1610941862253" duration="1600000" />
-    </task>
-    <task id="LOCAL-00083" summary="1">
-      <created>1605767919759</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1605767919761</updated>
+      <workItem from="1610941862253" duration="3926000" />
     </task>
     <task id="LOCAL-00084" summary="1">
       <created>1606113116377</created>
@@ -417,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611268302549</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="1">
+      <created>1611373104979</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1611373104979</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
