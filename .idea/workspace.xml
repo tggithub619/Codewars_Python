@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7 kyu Debug Sum of Digits of a Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7 kyu Working with arrays I (and why your code fails in some katas).py" afterDir="false" />
+    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/7 kyu Hells Kitchen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,20 +85,7 @@
       <workItem from="1610692855176" duration="309000" />
       <workItem from="1610941862253" duration="14009000" />
       <workItem from="1612925444943" duration="6676000" />
-    </task>
-    <task id="LOCAL-00102" summary="1">
-      <created>1606887784399</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1606887784399</updated>
-    </task>
-    <task id="LOCAL-00103" summary="1">
-      <created>1606887873104</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1606887873104</updated>
+      <workItem from="1613157302329" duration="2033000" />
     </task>
     <task id="LOCAL-00104" summary="1">
       <created>1606887938579</created>
@@ -430,7 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613104552653</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="1">
+      <created>1613157351785</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1613157351785</updated>
+    </task>
+    <task id="LOCAL-00152" summary="1">
+      <created>1613157359049</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1613157359049</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
