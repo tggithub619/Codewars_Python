@@ -13,3 +13,12 @@ def gordon(a):
 #         test.assert_equals(gordon('i am a chef'), '*!!!! @M!!!! @!!!! CH*F!!!!')
 #         test.assert_equals(gordon('dont you talk tome'), 'D*NT!!!! Y**!!!! T@LK!!!! T*M*!!!!')
 #         test.assert_equals(gordon('how dare you feck'), 'H*W!!!! D@R*!!!! Y**!!!! F*CK!!!!')
+
+def gordon(a):
+    a=a.upper()
+    a=a.replace(' ', '!!!! ')
+    a=a.replace('A', '@')
+    vowels = ['E', 'I', 'O', 'U']
+    for each in vowels:
+        a=a.replace(each, '*')
+    return a + '!!!!'
