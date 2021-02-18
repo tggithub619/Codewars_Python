@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="" />
+    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/7 kyu Number-Star ladder.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,28 +85,7 @@
       <workItem from="1610941862253" duration="14009000" />
       <workItem from="1612925444943" duration="6676000" />
       <workItem from="1613157302329" duration="2991000" />
-      <workItem from="1613671756881" duration="2773000" />
-    </task>
-    <task id="LOCAL-00112" summary="1">
-      <created>1607040960226</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1607040960226</updated>
-    </task>
-    <task id="LOCAL-00113" summary="1">
-      <created>1607641450817</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1607641450817</updated>
-    </task>
-    <task id="LOCAL-00114" summary="1">
-      <created>1607641536854</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1607641536854</updated>
+      <workItem from="1613671756881" duration="3074000" />
     </task>
     <task id="LOCAL-00115" summary="1">
       <created>1608060299135</created>
@@ -428,7 +409,28 @@
       <option name="project" value="LOCAL" />
       <updated>1613675086033</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="1">
+      <created>1613675375650</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1613675375650</updated>
+    </task>
+    <task id="LOCAL-00162" summary="1">
+      <created>1613675494880</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1613675494880</updated>
+    </task>
+    <task id="LOCAL-00163" summary="1">
+      <created>1613675617762</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1613675617762</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
