@@ -19,7 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="" />
+    <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/6 kyu Count characters in your string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu A Rule of Divisibility by 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu Dictionary from two lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sum of values from 1 to n inclusive { nΣn=1 }.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7 kyu Arithmetic sequence - sum of n elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu Arithmetic sequence - sum of n elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7 kyu Calculate Two People's Individual Ages.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu Calculate Two People's Individual Ages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7 kyu Is this a triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 kyu Is this a triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8 kyu I love you, a little , a lot, passionately ... not at all.py" beforeDir="false" afterPath="$PROJECT_DIR$/8 kyu I love you, a little , a lot, passionately ... not at all.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,14 +93,7 @@
       <workItem from="1610941862253" duration="14009000" />
       <workItem from="1612925444943" duration="6676000" />
       <workItem from="1613157302329" duration="2991000" />
-      <workItem from="1613671756881" duration="3894000" />
-    </task>
-    <task id="LOCAL-00116" summary="1">
-      <created>1608060724145</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1608060724145</updated>
+      <workItem from="1613671756881" duration="7476000" />
     </task>
     <task id="LOCAL-00117" summary="1">
       <created>1608231027254</created>
@@ -428,7 +431,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613675897767</updated>
     </task>
-    <option name="localTasksCounter" value="165" />
+    <task id="LOCAL-00165" summary="1">
+      <created>1613891116143</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1613891116145</updated>
+    </task>
+    <option name="localTasksCounter" value="166" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
