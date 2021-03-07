@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba9cd7f7-e8a6-4baf-935d-582307144d05" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7 kyu Shifter words.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,14 +85,7 @@
       <workItem from="1610941862253" duration="14009000" />
       <workItem from="1612925444943" duration="6676000" />
       <workItem from="1613157302329" duration="2991000" />
-      <workItem from="1613671756881" duration="8709000" />
-    </task>
-    <task id="LOCAL-00121" summary="1">
-      <created>1609882664110</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1609882664110</updated>
+      <workItem from="1613671756881" duration="9019000" />
     </task>
     <task id="LOCAL-00122" summary="1">
       <created>1609882689722</created>
@@ -430,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614196364926</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="1">
+      <created>1615097126912</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1615097126912</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
