@@ -1,0 +1,10 @@
+#https://www.codewars.com/kata/588805ca44c7e8c3a100013c
+
+def different_squares(m):
+    w = len(m[0])
+    arr = []
+    for i in range(len(m)-1):
+        for j in range(w-1):
+            arr.append((m[i][j], m[i][j+1], m[i+1][j], m[i+1][j+1]))
+    return len(set(arr))
+
